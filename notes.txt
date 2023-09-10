@@ -1,0 +1,25 @@
+char int float double 
+
+
+int x; // x-> variable 
+
+
+int y; //memory byte ->  TC 2 byte  GCC 4 byte 
+16 bit / DOS 
+
+
+loop -> 
+for 
+while 
+do...while 
+
+
+switch 
+
+
+if 
+if..else 
+else..if 
+nested if else 
+
+
